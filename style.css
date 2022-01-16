@@ -1,0 +1,27 @@
+body {
+    font-family: sans-serif;
+    
+}
+
+header {
+    background-color: blue;
+    padding: 10px;
+}
+
+h1 {
+ background-color:  blue;
+  padding: 50px;
+}
+
+p{
+    background-color:brown
+}
+
+a {
+    background-color:cadetblue
+}
+
+
+h2{
+   background-color:  blue; 
+}
